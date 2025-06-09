@@ -26,7 +26,7 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/magick-cards-showcase.git](https://github.com/SEU_USUARIO/magick-cards-showcase.git)
+    git clone [https://github.com/MaSabino74/magick-cards-showcase.git](https://github.com/MaSabino74/magick-cards-showcase.git)
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
