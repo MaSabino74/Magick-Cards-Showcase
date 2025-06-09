@@ -61,7 +61,3 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 ## Contribuição
 
 Este projeto foi desenvolvido como parte de um curso, mas contribuições são sempre bem-vindas! Se você tiver sugestões ou encontrar algum problema, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` (se aplicável) para mais detalhes.
