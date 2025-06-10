@@ -35,7 +35,8 @@
     margin-bottom: 32px;
 
 }
-.container .categorias-cartas .container .preco-cartas{
+.container .categorias-cartas,
+.container .preco-cartas{
     display: flex;
     flex-direction: column;
     width: 40%;
