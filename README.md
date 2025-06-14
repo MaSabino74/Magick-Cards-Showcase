@@ -15,10 +15,12 @@ O objetivo principal deste projeto é demonstrar a criação de uma interface de
 
 ## Tecnologias Utilizadas
 
-* **HTML5:** Estrutura da página web.
-* **CSS3:** Estilização, incluindo `reset.css` para normalização de estilos e `responsivo.css` para adaptação a diferentes telas.
-* **JavaScript:** Implementação da lógica de filtragem e interação com o usuário.
-* **Google Fonts:** Utilizado para a fonte "Roboto".
+<div style="display: inline_block"><br>More actions
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 
 ## Como Rodar o Projeto Localmente
 
