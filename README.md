@@ -5,14 +5,11 @@ Este projeto é uma aplicação web interativa desenvolvida durante a "Semana do
 ## Visão Geral
 
 O objetivo principal deste projeto é demonstrar a criação de uma interface de usuário dinâmica onde os usuários podem explorar e filtrar itens (neste caso, cartas) de uma coleção. A aplicação é construída com HTML, CSS (incluindo responsividade) e JavaScript para a lógica de filtragem.
-<p align="center">
-<div style="display: inline_block"><br>
-  <img src="https://github.com/MaSabino74/Magick-Cards-Showcase/blob/main/src/imagens/Mobile.jpg?raw=true" alt="mobile image" width="80ox"/>
 
-<div style="display: inline_block"><br>
-  <img src="https://github.com/MaSabino74/Magick-Cards-Showcase/blob/main/src/imagens/Desktop.jpg?raw=true"alt="desktop image" width="80px"/>
-</div>
-</p>
+<img src="https://github.com/MaSabino74/Magick-Cards-Showcase/blob/main/src/imagens/Mobile.jpg?raw=true" alt="mobile image" width="80px"/>
+<img src="https://github.com/MaSabino74/Magick-Cards-Showcase/blob/main/src/imagens/Desktop.jpg?raw=true" alt="desktop image" width="80px"/>
+
+
 ## Funcionalidades
 
 * **Listagem de Cartas:** Exibe uma coleção de cartas com suas respectivas imagens, nomes, categorias e preços.
